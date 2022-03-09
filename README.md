@@ -1,1 +1,1 @@
-# 6306_DDS-Case-Study-2
+# SMU - MSDS Attrition Case Study
